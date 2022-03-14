@@ -6,6 +6,7 @@
 
 #运行及结果  
 在当下目录下执行：`./city_error_test`  
+![image](https://github.com/mjh-design/NSFC/blob/main/imag/CithHash.bmp)
 
 
 
