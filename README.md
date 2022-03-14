@@ -6,6 +6,6 @@
 
 ## About this repo
 
-- 'Cityhah'：基于CithHash索引结构实现的映射
-- 'Neural network model'：基于LNI神经网络索引结构实现的映射
-- 'Datasets'：生成标识数据和Blacklist数据集
+- `Cityhah`：基于CithHash索引结构实现的映射
+- `Neural network model`：基于LNI神经网络索引结构实现的映射
+- `Datasets`：生成标识数据和Blacklist数据集
