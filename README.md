@@ -6,8 +6,8 @@
 
 ## About this repo
 - `Cityhah`：基于CithHash的传统索引HT－Cityhash
-- `Neural network model`：基于神经网络的学习型索引LNI
+- `LNI`：基于神经网络的学习型索引LNI
 - `Datasets`：生成标识数据和2020年Blacklist数据集
-- 实验测试代码运行方法见具体文件夹（Cityhash、Neural network model）中README。
+- 实验测试代码运行方法见具体文件夹（Cityhash、LNI）中README。
 ## Experimental results
 ![image](https://user-images.githubusercontent.com/72145333/159824704-a10e3afa-aa63-4b05-b843-56001aeee5b5.png)
