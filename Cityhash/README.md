@@ -6,4 +6,4 @@
 
 #运行及结果  
 在当下目录下执行：`./city_error_test`  
-![Uploading CithHash.png…]
+![CithHash](https://user-images.githubusercontent.com/72145333/159831449-77346259-9a2d-4ee9-8454-41ddf6f9b1ba.png)
