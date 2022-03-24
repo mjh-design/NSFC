@@ -2,10 +2,10 @@
 
 ## Introduction
 
-利用生成标识数据与Blacklist两个百万数据集，对比基于神经网络的索引结构和基于CityHash的索引结构在1000万数组上的映射冲突率。初步实验表明基于神经网络的索引结构在生成标识数据集上的冲突率为0.85%，显著低于CityHash索引结构的4.85%，显示了基于神经网络的索引结构相较于传统索引结构的优势。
+利用生成标识数据与2020年Blacklist数据集，对比基于神经网络的学习型索引LNI和基于CityHash的传统索引HT-Cityhash在1000万数组上的映射冲突率。实验结果表明，对于生成标识数据，学习型索引LNI的的映射冲突率为0.85%，远低于HT-Cityhash。然而，由于标识分布的不同，LNI对于Blacklist数据集的映射冲突概率远超过HT-Cityhash。
 
 ## About this repo
 
-- `Cityhah`：基于CithHash索引结构实现的映射
-- `Neural network model`：基于LNI神经网络索引结构实现的映射
-- `Datasets`：生成标识数据和Blacklist数据集
+- `Cityhah`：基于CithHash的传统索引HT－Cityhash
+- `Neural network model`：基于神经网络的学习型索引LNI
+- `Datasets`：生成标识数据和2020年Blacklist数据集
