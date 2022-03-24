@@ -6,4 +6,4 @@
 
 #运行及结果  
 执行命令：`./fp_error_test`  
-![image](https://github.com/mjh-design/NSFC/blob/main/imag/LNI.bmp)
+
