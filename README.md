@@ -1,4 +1,4 @@
-# LNI神经网络索引结构与CityHash索引结构的对比实验
+# 基于神经网络的学习型索引LNI与基于CityHash的传统索引HT-Cityhash映射冲突概率对比实验
 
 ## Introduction
 
